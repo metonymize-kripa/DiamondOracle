@@ -44,8 +44,7 @@
 <p><strong>BB: $10-16 </strong></p>
 <p><strong>TSLA: $724-915 </strong></p>
 
-<p>[Target Price: Feb-12-2021, Odds: 95%]</p>
-<p><em>Calculated from Options Data; Pulled 11:16am EST, Feb-10-2021</em></p>
+<p>[Target Price: Feb-12-2021, Odds: 95% /🔱 ]</p>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>
@@ -53,3 +52,5 @@
 </figure>
 
 <p>Pappe: Who is the Oracle? What is the Matrix? The truth is, we no longer know.</p>
+
+<p><em>/🔱 Calculated from Options Data; Pulled 11:16am EST, Feb-10-2021</em></p>

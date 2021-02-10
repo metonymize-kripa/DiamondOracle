@@ -6,7 +6,7 @@
 
 <p>Who is the Oracle? What is the Matrix? The truth is, we no longer know.</p>
 
-<p>What we do know is that in the Matrix, the Oracle tells Neo what he needs to hear. It may not be what he wants to hear, but it is what he needs to hear.</p>
+<p>What we do know is that in the Matrix, the Oracle tells Neo what he needs to hear. It may not be <em>what he wants to hear</em>, but <strong>it is what he needs to hear</strong>.</p>
 
 <p>The Diamond Oracle is that, for us. All of us. It is open-sourced. It is free. The 💎 Oracle summarizes publicly available data from the Options market into a tool that answers target price and odds questions based on what the options market collectively implies. Nothing more, nothing less.</p> 
 

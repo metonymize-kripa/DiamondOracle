@@ -20,3 +20,5 @@
 <p> The Oracle ...
 <a href="http://www.benzado.com/library/right-as-rain.html">Right as Rain</a>.
 </p>
+
+<embed src="data.txt">

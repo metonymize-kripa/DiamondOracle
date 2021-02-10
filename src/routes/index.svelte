@@ -44,8 +44,8 @@
 <p><strong>BB: $10-16 </strong></p>
 <p><strong>TSLA: $724-915 </strong></p>
 
-<p>[Target Price for Friday - Feb 12, 2021, Odds: 95%]</p>
-<p><em>Run using Options Data as of 11:15am EST, Feb 10, 2021)</em></p>
+<p>[Target Price: Feb-12-2021, Odds: 95%]</p>
+<p><em>Calculated from Options Data; Pulled 11:16am EST, Feb-10-2021</em></p>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>

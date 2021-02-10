@@ -36,7 +36,7 @@
 	<title>Diamond Oracle</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>GME Target Price: $23-43 (Week of Feb 21, 2021, Odds: 90%)</h1>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>

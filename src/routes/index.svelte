@@ -38,7 +38,7 @@
 
 <h1>💎 Oracle</h1>
 
-<h3>GME Target Price: $23-43 (Week of Feb 21, 2021, Odds: 90%)</h1>
+<h3>GME Target Price: $23-43 (Week of Feb 21, 2021, Odds: 90%)</h3>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>

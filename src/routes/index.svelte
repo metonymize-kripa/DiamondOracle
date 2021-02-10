@@ -43,4 +43,4 @@
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
-<p><strong>Who is the Oracle? What is the Matrix? The truth is, we no longer know. .</strong></p>
+<p><strong>Pappe: Who is the Oracle? What is the Matrix? The truth is, we no longer know. .</strong></p>

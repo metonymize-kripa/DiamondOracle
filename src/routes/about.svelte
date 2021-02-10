@@ -14,7 +14,7 @@
 
 <p>Diamond Hands will learn to join as a Diamond Mind. We want to be there when it happens...</p>
 
-
+<embed src="data.txt">
 <h3>ORACLE: Sorry kiddo. You got the gift, but it looks like you're waiting for something.</h3>
 <h3>NEO: What?</h3>
 

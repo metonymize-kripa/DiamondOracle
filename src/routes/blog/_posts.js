@@ -12,7 +12,7 @@ const posts = [
     title: 'How can I get involved?',
     slug: 'how-can-i-get-involved',
     html: `
-			<p>We're so glad you asked! Come on over to the <a href='https://github.com/metonymize-kripa/DiamondOracle'>Svelte</a>. Everyone is welcome, especially you!</p>
+			<p>We're so glad you asked! Enter the <a href='https://github.com/metonymize-kripa/DiamondOracle'> matrix </a>. Everyone is welcome, especially you!</p>
 		`,
   },
 ];

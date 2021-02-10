@@ -15,6 +15,14 @@ const posts = [
 			<p>We're so glad you asked! Enter the <a href='https://github.com/metonymize-kripa/DiamondOracle'> matrix </a>. Everyone is welcome, especially you!</p>
 		`,
   },
+	  {
+    title: 'How does the 💎 Oracle make such precise estimates? Smells like old fish tacos.',
+    slug: 'how-it-works',
+    html: `
+			<p>It's called RND. Not being rando, it's not random -- it stands for Risk Neutral Distribution. It is basically ... </p>
+<p> <a href='https://www.globalcapital.com/article/k6543wh6f19l/option-prices-imply-a-probability-distribution'> Gentle introduction </a>
+		`,
+  },
 ];
 
 posts.forEach(post => {

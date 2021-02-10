@@ -19,7 +19,7 @@ const posts = [
     title: 'How does the Oracle know?',
     slug: 'how-does-the-oracle-know',
     html: `
-	<p>We're so glad you asked! Oracle, as we know, is a just a very smart and kind program. 
+	<p>We're so glad you asked! Oracle, as we know, is a just a <a href='https://github.com/metonymize-kripa/DiamondOracle/blob/master/src/diamond_hand_index.py'>very smart and kind program</a>. 
  	It uses publicly available data from Google Finance, Yahoo Finance, python package (<a href='https://github.com/mcdallas/wallstreet'> wallstreet </a>) to calculate probabilities implied in option pricing. </p>
 		`,
   },

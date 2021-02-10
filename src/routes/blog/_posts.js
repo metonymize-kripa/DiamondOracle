@@ -15,6 +15,14 @@ const posts = [
 			<p>We're so glad you asked! Enter the <a href='https://github.com/metonymize-kripa/DiamondOracle'> matrix </a>. Everyone is welcome, especially you!</p>
 		`,
   },
+	   {
+    title: 'How does the Oracle know?',
+    slug: 'how-does-the-oracle-know',
+    html: `
+	<p>We're so glad you asked! Oracle, as we know, is a just a very smart and kind program. 
+ 	It uses publicly available data from Google Finance, Yahoo Finance, python package (<a href='https://github.com/mcdallas/wallstreet'> wallstreet </a>) to calculate probabilities implied in option pricing. </p>
+		`,
+  },
 	  {
     title: 'How does the 💎 Oracle make such precise estimates? Smells like old fish tacos.',
     slug: 'how-it-works',

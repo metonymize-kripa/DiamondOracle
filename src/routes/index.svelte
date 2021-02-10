@@ -38,7 +38,14 @@
 
 <h1>💎 Oracle</h1>
 
-<p><strong>GME Target Price: $36-69 (For Friday - Feb 12, 2021, Odds: 95%)</strong></p>
+<p><strong>GME: $34-72 </strong></p>
+<p><strong>AMC: $4-8 </strong></p>
+<p><strong>PLTR: $29-44 </strong></p>
+<p><strong>BB: $10-16 </strong></p>
+<p><strong>TSLA: $724-915 </strong></p>
+
+<p>[Target Price for Friday - Feb 12, 2021, Odds: 95%]</p>
+<p><em>Run using Options Data as of 11:15am EST, Feb 10, 2021)</em></p>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>

@@ -6,6 +6,7 @@ from wallstreet import Call, Put, Stock
 from scipy.stats import norm
 from datetime import datetime, timedelta
 
+
 def get_expiries_bracket(ticker, num_of_days):
     c = Call(ticker)
     expiries = c.expirations

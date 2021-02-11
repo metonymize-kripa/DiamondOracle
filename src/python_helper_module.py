@@ -147,7 +147,7 @@ def generate_svelte_file():
         <p>Pappe: Who is the Oracle? What is the Matrix? The truth is, we no longer know.</p>
         """
 
-    with open("../routes/index.svelte",'w') as f:
+    with open("./routes/index.svelte",'w') as f:
        f.write(file_to_append)
 
 

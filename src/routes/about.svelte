@@ -4,7 +4,7 @@
 
 <h1>About 💎 Oracle</h1>
 
-<p>Who is the 💎 Oracle? What is the Matrix? The truth is, we no longer know.</p>
+<p>Who is the Oracle? What is the Matrix? The truth is, we no longer know.</p>
 
 <p>What we do know is that in the Matrix, the Oracle tells Neo what he needs to hear. It may not be <em>what he wants to hear</em>, but <strong>it is what he needs to hear</strong>.</p>
 

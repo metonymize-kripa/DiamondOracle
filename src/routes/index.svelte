@@ -39,16 +39,16 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Feb,24 2021 11:31:50 AM</em></p><p><strong>AMC: $3 - $13</strong></p>
-<p><strong>GME: $25 - $73</strong></p>
-<p><strong>TSLA: $600 - $870</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Feb,24 2021 12:32:40 PM</em></p><p><strong>AMC: $3 - $12</strong></p>
+<p><strong>GME: $25 - $72</strong></p>
+<p><strong>TSLA: $608 - $858</strong></p>
 <p><strong>PLTR: $19 - $34</strong></p>
-<p><strong>SPY: $376 - $406</strong></p>
+<p><strong>SPY: $378 - $405</strong></p>
 <p><strong>LBRDK: $136 - $162</strong></p>
-<p><strong>IAC: $188 - $299</strong></p>
-<p><strong>TWTR: $56 - $88</strong></p>
-<p><strong>SE: $191 - $315</strong></p>
-<p><strong>MELI: $1310 - $2113</strong></p>
+<p><strong>IAC: $217 - $274</strong></p>
+<p><strong>TWTR: $58 - $88</strong></p>
+<p><strong>SE: $195 - $311</strong></p>
+<p><strong>MELI: $1348 - $2088</strong></p>
 <p>[/🔱 Target Price: Mar,03 2021, Odds: 95%]</p>
 
         <figure>

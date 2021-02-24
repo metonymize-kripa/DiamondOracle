@@ -39,10 +39,10 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Feb,24 2021 06:28:06 AM</em></p><p><strong>TSLA: $544 - $854</strong></p>
-<p><strong>AMC: $3 - $12</strong></p>
-<p><strong>PLTR: $18 - $36</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Feb,24 2021 06:57:12 AM</em></p><p><strong>AMC: $3 - $12</strong></p>
 <p><strong>GME: $23 - $67</strong></p>
+<p><strong>TSLA: $544 - $854</strong></p>
+<p><strong>PLTR: $18 - $36</strong></p>
 <p><strong>SPY: $369 - $406</strong></p>
 <p><strong>LBRDK: $136 - $159</strong></p>
 <p><strong>IAC: $193 - $296</strong></p>

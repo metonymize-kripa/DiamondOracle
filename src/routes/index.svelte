@@ -39,17 +39,17 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Feb,25 2021 11:54:48 PM</em></p><p><strong>GME: $-86 - $304</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Feb,26 2021 12:55:22 AM</em></p><p><strong>GME: $-85 - $303</strong></p>
 <p><strong>AMC: $2 - $15</strong></p>
 <p><strong>BB: $6 - $15</strong></p>
-<p><strong>PLTR: $16 - $32</strong></p>
+<p><strong>PLTR: $15 - $33</strong></p>
 <p><strong>NOK: $3 - $5</strong></p>
-<p><strong>LBRDK: $127 - $162</strong></p>
-<p><strong>IAC: $205 - $270</strong></p>
+<p><strong>LBRDK: $126 - $163</strong></p>
+<p><strong>IAC: $204 - $271</strong></p>
 <p><strong>TWTR: $59 - $90</strong></p>
-<p><strong>SE: $163 - $308</strong></p>
-<p><strong>MELI: $1181 - $2045</strong></p>
-<p>[/🔱 Target Price: Mar,04 2021, Odds: 95%]</p>
+<p><strong>SE: $156 - $315</strong></p>
+<p><strong>MELI: $1248 - $1978</strong></p>
+<p>[/🔱 Target Price: Mar,05 2021, Odds: 95%]</p>
 
         <figure>
         	<img alt='Borat' src='great-success.png'>

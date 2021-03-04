@@ -39,20 +39,20 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,04 2021 08:54:41 AM</em></p><p><strong>GME: $12 - $227</strong></p>
-<p><strong>UWMC: $5 - $15</strong></p>
-<p><strong>PLTR: $16 - $33</strong></p>
-<p><strong>RKT: $7 - $50</strong></p>
-<p><strong>SKT: $8 - $32</strong></p>
-<p><strong>SPY: $352 - $410</strong></p>
-<p><strong>TSLA: $434 - $859</strong></p>
-<p><strong>SOS: $-2 - $17</strong></p>
-<p><strong>AMC: $3 - $12</strong></p>
-<p><strong>NIO: $20 - $60</strong></p>
-<p><strong>QQQ: $269 - $346</strong></p>
-<p><strong>AAPL: $103 - $140</strong></p>
-<p><strong>AMD: $68 - $94</strong></p>
-<p><strong>ARKK: $79 - $163</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,04 2021 09:55:30 AM</em></p><p><strong>GME: $24 - $217</strong></p>
+<p><strong>UWMC: $6 - $13</strong></p>
+<p><strong>PLTR: $17 - $32</strong></p>
+<p><strong>RKT: $14 - $40</strong></p>
+<p><strong>SKT: $11 - $27</strong></p>
+<p><strong>SPY: $355 - $407</strong></p>
+<p><strong>TSLA: $490 - $798</strong></p>
+<p><strong>SOS: $1 - $14</strong></p>
+<p><strong>AMC: $4 - $12</strong></p>
+<p><strong>NIO: $29 - $52</strong></p>
+<p><strong>QQQ: $279 - $340</strong></p>
+<p><strong>AAPL: $108 - $136</strong></p>
+<p><strong>AMD: $69 - $90</strong></p>
+<p><strong>ARKK: $95 - $148</strong></p>
 <p>[/🔱 Target Price: Mar,11 2021, Odds: 95%]</p>
 
         <figure>
@@ -60,6 +60,5 @@
         	<figcaption>HIGH FIVE!</figcaption>
         </figure>
 
-<p>Check us at <a href='https://bearfox.live/'>Bearfox.live</a>, Try us at <a href='https://fatneo.com/'>FatNeo.com</a></p>
-<p><strong> Sign up for the <a href='https://oracled.mailchimpsites.com/'> DailySpread</a></strong></p>
+        <p>Pappe: Who is the Oracle? What is the Matrix? The truth is, we no longer know.</p>
         

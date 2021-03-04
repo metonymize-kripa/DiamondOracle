@@ -39,7 +39,7 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,04 2021 06:28:16 AM</em></p><p><strong>GME: $11 - $238</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,04 2021 06:53:10 AM</em></p><p><strong>GME: $11 - $238</strong></p>
 <p><strong>UWMC: $6 - $14</strong></p>
 <p><strong>PLTR: $17 - $30</strong></p>
 <p><strong>RKT: $12 - $44</strong></p>

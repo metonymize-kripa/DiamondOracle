@@ -39,7 +39,7 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,05 2021 06:29:33 AM</em></p><p><strong>GME: $10 - $255</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,05 2021 06:43:51 AM</em></p><p><strong>GME: $10 - $255</strong></p>
 <p><strong>SPY: $347 - $407</strong></p>
 <p><strong>PLTR: $17 - $32</strong></p>
 <p><strong>TSLA: $474 - $768</strong></p>
@@ -60,5 +60,6 @@
         	<figcaption>HIGH FIVE!</figcaption>
         </figure>
 
-        <p>Pappe: Who is the Oracle? What is the Matrix? The truth is, we no longer know.</p>
+        <p>Check us at <a href='https://bearfox.live/'>Bearfox.live</a>, Try us at <a href='https://fatneo.com/'>FatNeo.com</a></p>
+<p><strong> Sign up for the <a href='https://oracled.mailchimpsites.com/'> DailySpread</a></strong></p>
         

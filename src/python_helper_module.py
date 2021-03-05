@@ -145,7 +145,8 @@ def generate_svelte_file():
         	<figcaption>HIGH FIVE!</figcaption>
         </figure>
 
-        <p>Pappe: Who is the Oracle? What is the Matrix? The truth is, we no longer know.</p>
+        <p>Check us at <a href='https://bearfox.live/'>Bearfox.live</a>, Try us at <a href='https://fatneo.com/'>FatNeo.com</a></p>
+<p><strong> Sign up for the <a href='https://oracled.mailchimpsites.com/'> DailySpread</a></strong></p>
         """
 
     with open("./routes/index.svelte",'w') as f:

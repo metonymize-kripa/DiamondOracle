@@ -39,12 +39,12 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,08 2021 03:24:02 PM</em></p><p><strong>IBM: $115 - $135</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,08 2021 04:13:47 PM</em></p><p><strong>IBM: $115 - $135</strong></p>
 <p><strong>T: $28 - $32</strong></p>
 <p><strong>XOM: $54 - $68</strong></p>
 <p><strong>MO: $43 - $51</strong></p>
 <p><strong>GILD: $60 - $70</strong></p>
-<p><strong>ABBV: $94 - $119</strong></p>
+<p><strong>ABBV: $96 - $116</strong></p>
 <p>[/🔱 Target Price: Mar,15 2021, Odds: 95%]</p>
 
         <figure>

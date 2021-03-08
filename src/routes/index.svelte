@@ -39,20 +39,20 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,08 2021 09:06:54 AM</em></p><p><strong>GME: $9 - $296</strong></p>
-<p><strong>PLTR: $18 - $30</strong></p>
-<p><strong>TSLA: $398 - $800</strong></p>
-<p><strong>SPY: $361 - $409</strong></p>
-<p><strong>RKT: $20 - $31</strong></p>
-<p><strong>AMC: $4 - $13</strong></p>
-<p><strong>XOM: $52 - $69</strong></p>
-<p><strong>AAPL: $104 - $134</strong></p>
-<p><strong>ARKK: $86 - $146</strong></p>
-<p><strong>QQQ: $275 - $340</strong></p>
-<p><strong>BB: $6 - $13</strong></p>
-<p><strong>NIO: $24 - $51</strong></p>
-<p><strong>R: $69 - $79</strong></p>
-<p><strong>NOK: $3 - $5</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,08 2021 10:07:59 AM</em></p><p><strong>GME: $26 - $322</strong></p>
+<p><strong>PLTR: $17 - $31</strong></p>
+<p><strong>TSLA: $440 - $762</strong></p>
+<p><strong>SPY: $366 - $408</strong></p>
+<p><strong>RKT: $19 - $33</strong></p>
+<p><strong>AMC: $3 - $15</strong></p>
+<p><strong>XOM: $53 - $68</strong></p>
+<p><strong>AAPL: $104 - $133</strong></p>
+<p><strong>ARKK: $89 - $145</strong></p>
+<p><strong>QQQ: $277 - $340</strong></p>
+<p><strong>BB: $7 - $13</strong></p>
+<p><strong>NIO: $26 - $50</strong></p>
+<p><strong>R: $70 - $81</strong></p>
+<p><strong>NOK: $3 - $4</strong></p>
 <p>[/🔱 Target Price: Mar,15 2021, Odds: 95%]</p>
 
         <figure>

@@ -39,21 +39,21 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,09 2021 08:19:42 AM</em></p><p><strong>LBRDK: $132 - $168</strong></p>
-<p><strong>IAC: $169 - $275</strong></p>
-<p><strong>TWTR: $51 - $76</strong></p>
-<p><strong>SE: $154 - $259</strong></p>
-<p><strong>MELI: $1085 - $1654</strong></p>
-<p><strong>PYPL: $186 - $267</strong></p>
-<p><strong>PTON: $76 - $126</strong></p>
-<p><strong>CHNG: $15 - $30</strong></p>
-<p><strong>CVNA: $157 - $325</strong></p>
-<p><strong>MU: $70 - $101</strong></p>
-<p><strong>PINS: $46 - $79</strong></p>
-<p><strong>DIS: $176 - $228</strong></p>
-<p><strong>WFC: $34 - $44</strong></p>
-<p><strong>C: $63 - $81</strong></p>
-<p><strong>GDDY: $54 - $91</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,09 2021 09:20:29 AM</em></p><p><strong>LBRDK: $134 - $167</strong></p>
+<p><strong>IAC: $216 - $254</strong></p>
+<p><strong>TWTR: $57 - $76</strong></p>
+<p><strong>SE: $185 - $261</strong></p>
+<p><strong>MELI: $1275 - $1631</strong></p>
+<p><strong>PYPL: $208 - $274</strong></p>
+<p><strong>PTON: $93 - $136</strong></p>
+<p><strong>CHNG: $17 - $28</strong></p>
+<p><strong>CVNA: $212 - $302</strong></p>
+<p><strong>MU: $76 - $100</strong></p>
+<p><strong>PINS: $56 - $79</strong></p>
+<p><strong>DIS: $176 - $220</strong></p>
+<p><strong>WFC: $35 - $42</strong></p>
+<p><strong>C: $64 - $78</strong></p>
+<p><strong>GDDY: $70 - $81</strong></p>
 <p>[/🔱 Target Price: Mar,16 2021, Odds: 95%]</p>
 
         <figure>

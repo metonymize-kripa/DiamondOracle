@@ -39,7 +39,7 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,08 2021 06:14:31 PM</em></p><p><strong>IBM: $115 - $135</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,08 2021 07:14:52 PM</em></p><p><strong>IBM: $115 - $135</strong></p>
 <p><strong>T: $28 - $32</strong></p>
 <p><strong>XOM: $54 - $68</strong></p>
 <p><strong>MO: $43 - $51</strong></p>

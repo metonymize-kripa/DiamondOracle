@@ -39,7 +39,7 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,09 2021 06:44:38 AM</em></p><p><strong>LBRDK: $132 - $168</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,09 2021 07:18:54 AM</em></p><p><strong>LBRDK: $132 - $168</strong></p>
 <p><strong>IAC: $169 - $275</strong></p>
 <p><strong>TWTR: $51 - $76</strong></p>
 <p><strong>SE: $154 - $259</strong></p>

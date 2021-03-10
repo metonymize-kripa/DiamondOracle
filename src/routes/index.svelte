@@ -39,18 +39,18 @@
     </svelte:head>
 
     <h1>💎 Oracle</h1>
-    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,10 2021 10:39:26 AM</em></p><p><strong>GME: $43 - $600</strong></p>
-<p><strong>TSLA: $497 - $863</strong></p>
-<p><strong>AMC: $2 - $22</strong></p>
-<p><strong>PLTR: $19 - $32</strong></p>
-<p><strong>SPY: $370 - $410</strong></p>
-<p><strong>RKT: $19 - $34</strong></p>
-<p><strong>BB: $8 - $13</strong></p>
-<p><strong>LBRDK: $146 - $162</strong></p>
-<p><strong>IAC: $189 - $288</strong></p>
-<p><strong>TWTR: $55 - $77</strong></p>
-<p><strong>SE: $179 - $264</strong></p>
-<p><strong>MELI: $1208 - $1700</strong></p>
+    <p><em>Using <a href='https://finance.yahoo.com/quote/GME/options?p=GME'>Yahoo Finance Options Data</a>; Pulled Mar,10 2021 11:40:26 AM</em></p><p><strong>GME: $-608 - $1040</strong></p>
+<p><strong>TSLA: $431 - $887</strong></p>
+<p><strong>AMC: $-5 - $24</strong></p>
+<p><strong>PLTR: $16 - $33</strong></p>
+<p><strong>SPY: $367 - $411</strong></p>
+<p><strong>RKT: $18 - $35</strong></p>
+<p><strong>BB: $5 - $15</strong></p>
+<p><strong>LBRDK: $147 - $162</strong></p>
+<p><strong>IAC: $185 - $288</strong></p>
+<p><strong>TWTR: $54 - $76</strong></p>
+<p><strong>SE: $160 - $273</strong></p>
+<p><strong>MELI: $1021 - $1844</strong></p>
 <p>[/🔱 Target Price: Mar,17 2021, Odds: 95%]</p>
 
         <figure>
